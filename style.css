@@ -1,0 +1,14 @@
+/* Simple responsive styling */
+body{
+font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+background: #f6f8fb;
+margin: 0;
+padding: 0;
+color: #111;
+}
+.container{max-width:800px;margin:40px auto;padding:20px}
+.card{background:#fff;padding:20px;border-radius:12px;box-shadow:0 6px 18px rgba(20,20,40,0.06)}
+textarea{width:100%;padding:10px;border-radius:8px;border:1px solid #ddd;font-size:14px}
+button{background:#0b5fff;color:#fff;padding:10px 16px;border-radius:8px;border:none;font-weight:600}
+footer{margin-top:12px;color:#666}
+.hint{font-size:13px;color:#666}
